@@ -1,5 +1,5 @@
 <?php
-
+echo '';
 require_once __DIR__.'/../lib/silex.phar';
 
 $app = new Silex\Application();
